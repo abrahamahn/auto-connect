@@ -1,0 +1,193 @@
+{
+  "carClasses": [
+    {
+      "id": 1,
+      "name": "Chevrolet Corvette Grand Sport",
+      "type": "Medium",
+      "image": "assets/images/2012 Chevrolet Corvette Grand Sport.jpg",
+      "distance": 5000,
+      "year": 2012,
+      "price": 225123
+    },
+    {
+      "id": 2,
+      "name": "Chevrolet Corvette Stingray Z51",
+      "type": "Medium",
+      "image": "assets/images/2014 Chevrolet Corvette Stingray Z51.jpg",
+      "distance": 10000,
+      "year": 2014,
+      "price": 325448
+    },
+    {
+      "id": 3,
+      "name": "Chevrolet Corvette Stingray",
+      "type": "Medium",
+      "image": "assets/images/2015 Chevrolet Corvette Stingray.jpg",
+      "distance": 100000,
+      "year": 2015,
+      "price": 245852
+    },
+    {
+      "id": 4,
+      "name": "Jaguar F-Type S",
+      "type": "SUV",
+      "image": "assets/images/2015 Jaguar F-Type S.jpg",
+      "distance": 100000,
+      "year": 2015,
+      "price": 343142
+    },
+    {
+      "id": 5,
+      "name": "Porsche 911 Carrera",
+      "type": "Large",
+      "image": "assets/images/2015 Porsche 911 Carrera.jpg",
+      "distance": 100000,
+      "year": 2015,
+      "price": 316000
+    },
+    {
+      "id": 6,
+      "name": "Chevrolet Corvette Stingray Z51",
+      "type": "Large",
+      "image": "assets/images/2016 Chevrolet Corvette Stingray Z51.jpg",
+      "distance": 100000,
+      "year": 2016,
+      "price": 342000
+    },
+    {
+      "id": 7,
+      "name": "Chevrolet Camero LT",
+      "type": "SUV",
+      "image": "assets/images/2017 Chevrolet Camero LT.jpg",
+      "distance": 50000,
+      "year": 2017,
+      "price": 324000
+    },
+    {
+      "id": 8,
+      "name": "Jaguar XF Premium",
+      "type": "Small",
+      "image": "assets/images/2017 Jaguar XF Premium.jpg",
+      "distance": 50000,
+      "year": 2017,
+      "price": 215000
+    },
+    {
+      "id": 9,
+      "name": "Toyota 86 860 Special Edition",
+      "type": "Small",
+      "image": "assets/images/2017 Toyota 86 860 Special Edition.jpg",
+      "distance": 10000,
+      "year": 2017,
+      "price": 198000
+    },
+    {
+      "id": 10,
+      "name": "Toyota 86 860 Special Edition",
+      "type": "SUV",
+      "image": "assets/images/2017 Toyota 86 860 Special Edition.jpg",
+      "distance": 100000,
+      "year": 2017,
+      "price": 387000
+    },
+    {
+      "id": 11,
+      "name": "Porsche 718 Cayman GTS",
+      "type": "SUV",
+      "image": "assets/images/2018 Porsche 718 Cayman GTS.jpg",
+      "distance": 10000,
+      "year": 2018,
+      "price": 375000
+    },
+    {
+      "id": 12,
+      "name": "Audi Rs5",
+      "type": "Medium",
+      "image": "assets/images/2019 Audi Rs5.jpg",
+      "distance": 10000,
+      "year": 2019,
+      "price": 366000
+    },
+    {
+      "id": 13,
+      "name": "BMW 230 I",
+      "type": "Large",
+      "image": "assets/images/2019 BMW 230 I.jpg",
+      "distance": 500,
+      "year": 2019,
+      "price": 389000
+    },
+    {
+      "id": 14,
+      "name": "BMW Z4 sDrive 30i - black",
+      "type": "SUV",
+      "image": "assets/images/2019 BMW Z4 sDrive 30i - black.jpg",
+      "distance": 100000,
+      "year": 2019,
+      "price": 376000
+    },
+    {
+      "id": 15,
+      "name": "BMW Z4 sDrive 30i - white",
+      "type": "Medium",
+      "image": "assets/images/2019 BMW Z4 sDrive 30i - white.jpg",
+      "distance": 50000,
+      "year": 2019,
+      "price": 346000
+    },
+    {
+      "id": 16,
+      "name": "Ford Mustang GT",
+      "type": "Medium",
+      "image": "assets/images/2019 Ford Mustang GT.jpg",
+      "distance": 50000,
+      "year": 2019,
+      "price": 567000
+    },
+    {
+      "id": 17,
+      "name": "BMW M550 | xDrive",
+      "type": "Large",
+      "image": "assets/images/2020 BMW M550 | xDrive.jpg",
+      "distance": 100000,
+      "year": 2020,
+      "price": 287000
+    },
+    {
+      "id": 18,
+      "name": "BMW Z4 sDrive 30i",
+      "type": "Large",
+      "image": "assets/images/2020 BMW Z4 sDrive 30i.jpg",
+      "distance": 10000,
+      "year": 2020,
+      "price": 578000
+    },
+    {
+      "id": 19,
+      "name": "Ford Mustang GT Premium",
+      "type": "SUV",
+      "image": "assets/images/2020 Ford Mustang GT Premium.jpg",
+      "distance": 50000,
+      "year": 2020,
+      "price": 354000
+    },
+    {
+      "id": 20,
+      "name": "Toyota Supra 3.0 Premium",
+      "type": "Large",
+      "image": "assets/images/2021 Toyota Supra 3.0 Premium.jpg",
+      "distance": 5000,
+      "year": 2021,
+      "price": 225123
+    },
+    {
+      "id": 21,
+      "name": "Toyota Supra 3.0 Premium",
+      "type": "Large",
+      "image": "assets/images/2022 Toyota Supra 3.0 Premium.jpg",
+      "distance": 10000,
+      "year": 2022,
+      "price": 225123
+    }
+  ]
+}
