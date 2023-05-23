@@ -1,7 +1,7 @@
 .dropdown-absolute {
   position: absolute;
   z-index: 1;
-  top: 75px;
+  top: 120px;
   left: 0;
   width: 100%;
 }
@@ -19,7 +19,7 @@
   margin: 0 auto;
   background-color: rgba(255, 255, 255, 0.95);
   border: 1px solid #d5d5d5;
-  padding: 25px;
+  padding: 20px;
   border-radius: 20px;
 }
 
