@@ -14,23 +14,15 @@ const Home: React.FC = () => {
     setFilters((prevFilters: any) => ({ ...prevFilters, [filterName]: selectedItems }));
   }
 
-  const filteredCarList = carList.filter((car: any) => {
-    return Object.keys(filters).every(filterName => {
-      if (filterName === '차종 분류') {
-        return filters[filterName].includes(car.name);
-      }
-    });
-  });
-
   useEffect(() => {
     setCarList(db.carClasses);
   }, []);
 
   return (
     <div className="main">
-      <Title title="Home" />
+      <Title title="Auto Connect" />
       <Category onFilterChange={handleFilterChange} />
-      <Carousel carList={filteredCarList} />
+      <Carousel carList={carList} />
     </div>
   );
 }

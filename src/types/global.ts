@@ -1,5 +1,6 @@
 export interface CarData {
   id: number;
+  brand: string;
   name: string;
   type: string;
   image: string;

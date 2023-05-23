@@ -33,7 +33,7 @@ const Carousel: React.FC<CarCarouselProps> = ({ carList }) => {
             <div className="info">
               <div className="item-title-container">
                 <h2 className="item-title">{car.name}</h2>
-                <h2 className="item-title">{car.brand}</h2>
+                <h2 className="item-brand">{car.brand}</h2>
               </div>
             </div>
             <div className="price">
@@ -43,9 +43,7 @@ const Carousel: React.FC<CarCarouselProps> = ({ carList }) => {
             </div>
             <div className="details">
               <span className="year">{car.year} | </span>
-              <span className="distance">
-                {abbreviateDistance(car.distance)}
-              </span>
+              <span className="distance">{abbreviateDistance(car.distance)}</span>
             </div>
           </div>
         </div>
